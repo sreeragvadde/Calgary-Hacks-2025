@@ -27,7 +27,7 @@ The project features a 3D globe with information about some endangered species.
 
 ## How we built it
 
-We used C++ for the backend and Python and JavaScript for the frontend.
+We used C++ for the backend and HTML and JavaScript for the frontend.
 
 ## Challenges we ran into
 
